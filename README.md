@@ -7,10 +7,10 @@
    - Adapt the tool for real-world business scenarios, demonstrating its practical applications
   
 2. Create Simple Chatbot with Open Source LLMs using Python and Hugging Face
-    - Describe the main components of a chatbot
-    - Explain what an LLM is
-    - Select an LLM for your application
     - Describe how a transformer essentially works
     - Feed input into a transformer (tokenization)
     - Program your own simple chatbot in Python
+    - Set up your back-end server
+    - Integrate your chatbot into your Flask server
+    - Communicate with the back-end using a web page
 
