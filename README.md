@@ -13,4 +13,12 @@
     - Set up your back-end server
     - Integrate your chatbot into your Flask server
     - Communicate with the back-end using a web page
+      
+3. Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson
+    - Set up a development environment for building a voice assistant using Python, Flask, HTML, CSS, and Javascript
+    - Set up a development environment for building an assistant using Python, Flask, HTML, CSS, and Javascript
+    - Implement speech-to-text functionality to allow the assistant to understand voice input from users
+    - Implement text-to-speech functionality to allow the assistant to communicate with users through voice output
+    - Deploy the assistant to a web server for use by a wider audience (demo only for the project)
+
 
